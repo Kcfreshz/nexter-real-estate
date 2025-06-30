@@ -14,7 +14,7 @@ A modern and responsive real estate landing page built with **HTML**, **SCSS**, 
 
 ## 📸 Preview
 
-![Nexter Screenshot](img/house-1.jpeg)
+![Nexter Screenshot](img/Nexter-home.png)
 
 ## 🧱 Tech Stack
 
